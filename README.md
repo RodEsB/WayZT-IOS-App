@@ -1,1 +1,1 @@
-# WaZT
+# WayZT
