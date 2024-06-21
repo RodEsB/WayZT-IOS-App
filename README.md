@@ -1,4 +1,7 @@
 <h1 align="center">WayZT App</h1>
+<p align="center">
+  <img src="https://github.com/RodEsB/WayZT-IOS-App/blob/main/Waste%20Manager/Assets.xcassets/logo.imageset/Logocadboardsoft%20icon.png" alt="Logo" width="200">
+</p>
 <p align="center"><i>Join the movement towards a greener future!</i></p>
 <br>
 <p align="center"><i>Together, let's code for a cleaner planet!</i></p>
